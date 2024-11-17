@@ -4,7 +4,7 @@ This code models the standard door key problem as a Markov Decision Process and 
 Programming algorithm that minimizes the cost of reaching the goal. Mathematically,
 
 $$
-min\, V_t^{\pi}\left ( x \right ):= q\left ( x_T \right )+\sum_{\tau =t}^{T-1}l\left ( x_{\tau},\pi_t\left ( x_\tau \right ) \right )
+min V_t^{\pi}\left ( x \right ):= q\left ( x_T \right )+\sum_{\tau =t}^{T-1}l\left ( x_{\tau},\pi_t\left ( x_\tau \right ) \right )
 $$
 
 ## Part A:
