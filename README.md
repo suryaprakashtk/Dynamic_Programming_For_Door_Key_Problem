@@ -26,9 +26,9 @@ Some of the results obtained are shown below:
 |-------------------------------------|----------------------------------------|----------------------------------------|
 | ![best](gif/doorkey-5x5-normal.gif) | ![bestvid](gif/doorkey-6x6-normal.gif) | ![bestvid](gif/doorkey-8x8-normal.gif) |
 
-|          Random Map 3               |          Random Map 18                 |          Random Map 29                 |
+|          Random Map 3               |          Random Map 4                 |          Random Map 22                 |
 |-------------------------------------|----------------------------------------|----------------------------------------|
-| ![best](gif/random/doorkey-8x8-3.gif) | ![bestvid](gif/random/doorkey-8x8-18.gif) | ![bestvid](gif/random/doorkey-8x8-29.gif) |
+| ![best](gif/random/doorkey-8x8-3.gif) | ![bestvid](gif/random/doorkey-8x8-4.gif) | ![bestvid](gif/random/doorkey-8x8-22.gif) |
 
 
 ## Code Implementation
