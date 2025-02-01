@@ -77,6 +77,6 @@ def partB():
 
 
 if __name__ == "__main__":
-    # partA()
-    partB()
+    partA()
+    # partB()
 
