@@ -1,5 +1,7 @@
 # Dynamic Programming For Door Key Problem
 ## Overview
+This project is a part of coursework Planning and Learning in Robotics done in Spring 2023.
+
 This code models the standard door key problem as a Markov Decision Process and solve it using Dynamic Programming Algorithm. The problem is split as 2 parts. The objective for both parts is to implement a Dynamic
 Programming algorithm that minimizes the cost of reaching the goal. Mathematically,
 
